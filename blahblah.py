@@ -1,0 +1,1 @@
+print("sab madarchod hai")

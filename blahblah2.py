@@ -1,0 +1,1 @@
+print("par me nhi hu")
