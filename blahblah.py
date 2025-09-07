@@ -1,1 +1,2 @@
-print("sab madarchod hai")
+print("sab madarchod hai\n")
+print("buttons")
